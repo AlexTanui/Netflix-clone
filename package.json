@@ -1,0 +1,23 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "netflic-clone",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTanui/Netflix-clone.git"
+  },
+  "keywords": [
+    "clone",
+    "netflix"
+  ],
+  "author": "Alex Tanui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTanui/Netflix-clone/issues"
+  },
+  "homepage": "https://github.com/AlexTanui/Netflix-clone#readme"
+}
